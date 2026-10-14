@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Example headphones",
+      "url": "https://example.com/product/headphones",
+      "price_pattern": "\"price\"\\s*:\\s*\"?([\\d,]+\\.?\\d*)",
+      "target_price": 50.0
+    }
+  ]
+}
